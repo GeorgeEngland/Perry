@@ -22,6 +22,7 @@ require (
 	github.com/stretchr/testify v1.8.4 // indirect
 	go.temporal.io/api v1.24.0 // indirect
 	go.uber.org/atomic v1.9.0 // indirect
+	golang.org/x/exp v0.0.0-20240213143201-ec583247a57a // indirect
 	golang.org/x/net v0.14.0 // indirect
 	golang.org/x/sys v0.11.0 // indirect
 	golang.org/x/text v0.12.0 // indirect
